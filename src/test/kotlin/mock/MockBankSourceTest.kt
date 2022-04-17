@@ -3,6 +3,7 @@ package mock
 import org.assertj.core.api.Assertions
 import org.assertj.core.api.Assertions.*
 import org.junit.jupiter.api.Test
+import zatec.bankmanagementsystem.mock.MockBankSource
 
 
 internal class MockBankSourceTest {
